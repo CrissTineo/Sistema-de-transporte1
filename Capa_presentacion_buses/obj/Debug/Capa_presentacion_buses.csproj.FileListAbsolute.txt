@@ -1,0 +1,16 @@
+C:\Users\Yedel\source\repos\Capa_presentacion_buses\Capa_presentacion_buses\bin\Debug\Capa_presentacion_buses.exe.config
+C:\Users\Yedel\source\repos\Capa_presentacion_buses\Capa_presentacion_buses\bin\Debug\Capa_presentacion_buses.exe
+C:\Users\Yedel\source\repos\Capa_presentacion_buses\Capa_presentacion_buses\bin\Debug\Capa_presentacion_buses.pdb
+C:\Users\Yedel\source\repos\Capa_presentacion_buses\Capa_presentacion_buses\obj\Debug\Capa_presentacion_buses.csproj.AssemblyReference.cache
+C:\Users\Yedel\source\repos\Capa_presentacion_buses\Capa_presentacion_buses\obj\Debug\Capa_presentacion_buses.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yedel\source\repos\Capa_presentacion_buses\Capa_presentacion_buses\obj\Debug\Capa_presentacion_buses.Form1.resources
+C:\Users\Yedel\source\repos\Capa_presentacion_buses\Capa_presentacion_buses\obj\Debug\Capa_presentacion_buses.Properties.Resources.resources
+C:\Users\Yedel\source\repos\Capa_presentacion_buses\Capa_presentacion_buses\obj\Debug\Capa_presentacion_buses.csproj.GenerateResource.cache
+C:\Users\Yedel\source\repos\Capa_presentacion_buses\Capa_presentacion_buses\obj\Debug\Capa_presentacion_buses.csproj.CoreCompileInputs.cache
+C:\Users\Yedel\source\repos\Capa_presentacion_buses\Capa_presentacion_buses\obj\Debug\Capa_presentacion_buses.exe
+C:\Users\Yedel\source\repos\Capa_presentacion_buses\Capa_presentacion_buses\obj\Debug\Capa_presentacion_buses.pdb
+C:\Users\Yedel\source\repos\Capa_presentacion_buses\Capa_presentacion_buses\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Yedel\source\repos\Capa_presentacion_buses\Capa_presentacion_buses\obj\Debug\Capa_presentacion_buses.csproj.CopyComplete
+C:\Users\Yedel\source\repos\Capa_presentacion_buses\Capa_presentacion_buses\obj\Debug\Capa_presentacion_buses.Inf_Choferes.resources
+C:\Users\Yedel\source\repos\Capa_presentacion_buses\Capa_presentacion_buses\obj\Debug\Capa_presentacion_buses.Autobuses.resources
+C:\Users\Yedel\source\repos\Capa_presentacion_buses\Capa_presentacion_buses\obj\Debug\Capa_presentacion_buses.Rutascs.resources
